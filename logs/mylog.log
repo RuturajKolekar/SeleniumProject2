@@ -1,0 +1,173 @@
+[INFO ] 2022-12-30 16:34:42.360 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-30 16:34:49.114 [main] SeleniumAzureDevOps - Login test is starting.
+[INFO ] 2022-12-30 16:34:49.632 [main] SeleniumAzureDevOps - Login test is succeed.
+[INFO ] 2022-12-30 16:35:00.459 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-30 16:35:01.305 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-30 16:35:01.627 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-30 16:37:44.845 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-30 16:37:50.095 [main] SeleniumAzureDevOps - Login test is starting.
+[INFO ] 2022-12-30 16:37:50.633 [main] SeleniumAzureDevOps - Login test is succeed.
+[INFO ] 2022-12-30 16:37:58.894 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-30 16:37:59.883 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-30 16:38:00.156 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-30 21:15:03.719 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-30 21:15:09.774 [main] SeleniumAzureDevOps - Login test is starting.
+[INFO ] 2022-12-30 21:15:10.174 [main] SeleniumAzureDevOps - Login test is succeed.
+[INFO ] 2022-12-30 21:15:18.476 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-30 21:15:19.142 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-30 21:15:19.351 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 13:48:52.974 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 13:48:57.891 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 13:48:58.189 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 13:49:07.133 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 13:49:07.415 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 13:49:15.919 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 13:49:16.367 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 13:49:24.218 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 13:49:24.503 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 13:49:32.932 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 13:49:33.227 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 13:49:42.595 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-31 13:49:47.846 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-31 13:49:48.078 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 13:53:19.003 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 13:53:23.973 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 13:53:24.337 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 13:53:32.696 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 13:53:33.071 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 13:53:41.440 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 13:53:41.743 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 13:53:50.099 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 13:53:50.397 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 13:53:57.708 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 13:53:57.970 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 13:54:06.051 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-31 13:54:11.237 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-31 13:54:11.617 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 13:59:49.635 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 13:59:53.723 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 13:59:54.379 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 14:00:02.241 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 14:00:22.653 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 14:00:30.876 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 14:00:51.200 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 14:00:59.426 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 14:01:19.740 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 14:01:30.071 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 14:01:50.397 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 14:01:58.848 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-31 14:02:03.615 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-31 14:02:03.827 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 15:19:15.002 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 15:19:21.716 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 15:19:22.262 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 15:19:31.357 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 15:19:51.624 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 15:20:01.078 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 15:20:21.325 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 15:20:30.219 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 15:20:50.442 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 15:20:59.550 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 15:21:19.785 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 15:21:28.579 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-31 15:21:33.285 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-31 15:21:33.472 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 15:25:55.417 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 15:26:00.532 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 15:26:01.117 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 15:26:09.944 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 15:26:30.226 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 15:26:39.317 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 15:26:59.628 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 15:27:08.567 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 15:27:28.884 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 15:27:37.793 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 15:27:58.048 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 15:28:06.999 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-31 15:28:11.684 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-31 15:28:12.045 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 16:03:46.837 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 16:03:56.259 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 16:03:57.487 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 16:04:06.854 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 16:04:27.124 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 16:04:35.349 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 16:04:55.608 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 16:05:03.732 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 16:05:24.016 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 16:05:31.838 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 16:05:52.123 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 16:06:00.341 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-31 16:06:05.007 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-31 16:06:05.399 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 16:08:33.590 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 16:08:39.416 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 16:08:39.991 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 16:08:48.884 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 16:09:09.142 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 16:09:16.277 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 16:09:36.515 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 16:09:44.835 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 16:10:05.074 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 16:10:12.362 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 16:10:32.599 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 16:10:39.554 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-31 16:10:44.232 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-31 16:10:44.432 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 17:45:55.514 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 17:46:08.880 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 17:46:09.786 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 17:46:19.821 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 17:46:40.288 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 17:46:51.615 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 17:47:12.176 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 17:47:24.722 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 17:47:45.153 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 17:47:55.417 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 17:48:15.721 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 17:48:25.710 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-31 17:48:31.753 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is failed.
+[INFO ] 2022-12-31 17:48:32.187 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 18:15:03.312 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 18:15:04.849 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 18:15:04.857 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 18:17:01.103 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 18:17:01.845 [main] SeleniumAzureDevOps - LoginTest test is failed.
+[INFO ] 2022-12-31 18:17:01.897 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 18:19:17.039 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 18:19:25.666 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 18:19:26.527 [main] SeleniumAzureDevOps - LoginTest test is succeed.
+[INFO ] 2022-12-31 18:19:35.859 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-31 18:19:40.666 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-31 18:19:40.993 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 18:20:38.329 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 18:20:42.545 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 18:20:43.057 [main] SeleniumAzureDevOps - LoginTest test is succeed.
+[INFO ] 2022-12-31 18:20:51.859 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-31 18:20:56.757 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-31 18:20:57.037 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 18:34:30.012 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 18:35:15.043 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 18:35:42.409 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 18:35:48.463 [main] SeleniumAzureDevOps - LoginTest test is succeed.
+[INFO ] 2022-12-31 18:36:04.063 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-31 18:36:09.001 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-31 18:36:09.386 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2022-12-31 18:37:25.317 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2022-12-31 18:37:31.822 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2022-12-31 18:37:32.671 [main] SeleniumAzureDevOps - LoginTest test is succeed.
+[INFO ] 2022-12-31 18:37:43.792 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2022-12-31 18:37:49.202 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2022-12-31 18:37:50.597 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2023-01-08 17:40:32.227 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2023-01-08 17:40:49.377 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2023-01-08 17:40:50.589 [main] SeleniumAzureDevOps - LoginTest test is succeed.
+[INFO ] 2023-01-08 17:40:59.043 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2023-01-08 17:41:03.968 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2023-01-08 17:41:04.218 [main] SeleniumAzureDevOps - I am in onFinish method Test
+[INFO ] 2023-01-08 17:42:09.905 [main] SeleniumAzureDevOps - I am in onStart method Test
+[INFO ] 2023-01-08 17:42:15.089 [main] SeleniumAzureDevOps - LoginTest test is starting.
+[INFO ] 2023-01-08 17:42:15.722 [main] SeleniumAzureDevOps - LoginTest test is succeed.
+[INFO ] 2023-01-08 17:42:24.809 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is starting.
+[INFO ] 2023-01-08 17:42:29.639 [main] SeleniumAzureDevOps - CheckProductaddedToCard test is succeed.
+[INFO ] 2023-01-08 17:42:30.007 [main] SeleniumAzureDevOps - I am in onFinish method Test
